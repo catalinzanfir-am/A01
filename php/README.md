@@ -1,0 +1,20 @@
+# A01 - PHP
+
+Table of contents:
+1. [php](01-php.md)  
+1. [output-01](02-output-01.md)  
+1. [output-02](02-output-02.md)  
+1. [arrays-01](03-arrays-01.md)  
+1. [arrays-02](03-arrays-02.md)  
+1. [arrays-03](03-arrays-03.md)  
+1. [functions-array](04-functions-array.md)  
+1. [functions-string](04-functions-string.md)  
+1. [for](05-for.md)  
+1. [foreach](05-foreach.md)  
+1. [if](06-if.md)  
+1. [ternary](06-ternary.md)  
+1. [while](07-while.md)  
+1. [dowhile](07-dowhile.md)  
+1. [switch](08-switch.md)  
+1. [functions](09-functions.md)  
+1. [exceptions](10-exceptions.md)  
